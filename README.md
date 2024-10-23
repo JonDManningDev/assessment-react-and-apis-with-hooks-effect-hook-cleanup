@@ -1,3 +1,9 @@
+# Assessment: React and APIs with Hooks - Effect Hook Cleanup
+
+*This repo is my solution for the Qualified assessment for 5.5.3.*
+
+*Modify existing App.js to add a cleanup function utilizing AbortController to cancel pending fetch requests on reload.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
